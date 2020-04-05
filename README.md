@@ -19,4 +19,7 @@ Using the Command Line Interface.
 - [Coronavirus (COVID-19) - NHS - NHS](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 - [Corona - Wikipedia](https://en.wikipedia.org/wiki/Corona)
 
-stayat home
+### When does the lockdown end?
+
+- April 14th in India
+- Indefinite lockdown in the UK (actually they said 6 months).
